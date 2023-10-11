@@ -1,2 +1,9 @@
 # Monte_Carlo_Go_Agent
-A Go agent built using Monte Carlo Search Tree algorithm.
+
+> About
+
+- A Go agent built using the Monte Carlo Search Tree algorithm.
+
+> Example Game Play
+
+![Game Play](./example_board.PNG)
